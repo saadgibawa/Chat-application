@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\c++ personal project\project 1 - Chat application\client2\client2\main.cpp(40,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++ personal project\project 1 - Chat application\client2\client2\main.cpp(117,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client2.vcxproj -> D:\c++ personal project\project 1 - Chat application\client2\x64\Debug\client2.exe

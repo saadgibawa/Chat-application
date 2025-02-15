@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\c++ personal project\project 1 - Chat application\client\client\main.cpp(41,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++ personal project\project 1 - Chat application\client\client\main.cpp(121,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++ personal project\project 1 - Chat application\client\client\main.cpp(91,31): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
